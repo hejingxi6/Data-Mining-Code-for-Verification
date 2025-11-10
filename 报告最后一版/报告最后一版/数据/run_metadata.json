@@ -1,0 +1,19 @@
+{
+  "dataset": "D:\\桌面\\data mining\\group assignment\\报告最后一版\\数据\\Book1_5x_noise20-3.csv",
+  "samples": 955,
+  "features": 1600,
+  "split": "90/10",
+  "random_state": 42,
+  "R2": 0.955,
+  "RMSE": 5.986,
+  "MAE": 3.923,
+  "figs": [
+    "D:\\桌面\\data mining\\group assignment\\报告最后一版\\可视化结果\\01_pred_vs_actual.png",
+    "D:\\桌面\\data mining\\group assignment\\报告最后一版\\可视化结果\\02_residuals_vs_pred.png",
+    "D:\\桌面\\data mining\\group assignment\\报告最后一版\\可视化结果\\03_residuals_hist.png",
+    "D:\\桌面\\data mining\\group assignment\\报告最后一版\\可视化结果\\04_feature_importance_top20.png",
+    "D:\\桌面\\data mining\\group assignment\\报告最后一版\\可视化结果\\05_learning_curve.png",
+    "D:\\桌面\\data mining\\group assignment\\报告最后一版\\可视化结果\\06_pdp.png"
+  ],
+  "timestamp": "2025-11-10 18:44:02"
+}
